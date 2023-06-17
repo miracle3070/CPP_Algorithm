@@ -1,4 +1,4 @@
-# C-_Algorithm
+# CPP_Algorithm
 C++ 알고리즘 문제풀이용 저장소
 
 ## 관련 강의

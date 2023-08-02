@@ -17,7 +17,7 @@ int main(void) {
 
 	for (int i = 0; i < n; i++) {
 		int rank = i;
-		for (int k = i; k >= 0; k--) {
+		for (int k = i - 1; k >= 0; k--) {
 			if (players[i] > players[k])
 				rank--;
 		}
